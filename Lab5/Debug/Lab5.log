@@ -1,0 +1,5 @@
+﻿  ExpressionManager.cpp
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab5\lab5\expressionmanager.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab5\lab5\expressionmanager.cpp(216): warning C4101: 'ex': unreferenced local variable
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab5\lab5\expressionmanager.cpp(398): warning C4018: '<': signed/unsigned mismatch
+  Lab5.vcxproj -> C:\Users\russe\Desktop\BYU\3--Winter 2018\C S 235--Data Structures\Lab5\Debug\Lab5.exe

@@ -1,0 +1,19 @@
+SEQUENTIAL
+iter1: size=0 index=0 mode=0
+
+
+
+PRIME
+iter2: size=0 index=0 mode=0
+
+
+
+COMPOSITE
+iter3: size=0 index=0 mode=0
+
+
+
+FIBINOCCI
+iter4: size=0 index=0 mode=0
+
+

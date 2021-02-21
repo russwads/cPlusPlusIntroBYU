@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(193): warning C4101: 'index': unreferenced local variable
+  c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(168): note: while compiling class template member function 'std::string LinkedList<std::string>::at(int)'
+  c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\main.cpp(212): note: see reference to function template instantiation 'std::string LinkedList<std::string>::at(int)' being compiled
+  c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\main.cpp(156): note: see reference to class template instantiation 'LinkedList<std::string>' being compiled
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(136): warning C4715: 'LinkedList<int>::remove': not all control paths return a value
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(197): warning C4715: 'LinkedList<int>::at': not all control paths return a value
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(136): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::remove': not all control paths return a value
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab4\lab4\linkedlist.h(197): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::at': not all control paths return a value
+  Lab4.vcxproj -> C:\Users\russe\Desktop\BYU\3--Winter 2018\C S 235--Data Structures\Lab4\Debug\Lab4.exe
