@@ -1,0 +1,8 @@
+bool delete(Node*& node, const T& data)
+if node is NULL, return false
+if data < node->data, return delete(node->left, data)
+if data > node->data, return delete(node->right, data)
+if node has no children, parent = null, return true
+if node has one child, parent = node->left,right, return true
+exchange node->data with in_order_processor->data
+return delete(node->left, data)

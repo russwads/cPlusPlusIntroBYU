@@ -1,0 +1,54 @@
+//YOU MAY NOT MODIFY THIS DOCUMENT
+#ifndef BST_INTERFACE_H
+#define BST_INTERFACE_H
+#include <string>
+using std::string;
+
+/** A binary tree node with data, left and right child pointers */
+template<typename T>
+class BSTInterface
+{
+public:
+	BSTInterface(void) {}
+	~BSTInterface(void) {}
+
+	/** Return true if node added to BST, else false */
+	virtual bool addNode(const T&) = 0;
+
+	/** Return true if node removed from BST, else false */
+	virtual bool removeNode(const T&) = 0;
+
+	/** Return true if BST cleared of all nodes, else false */
+	virtual bool clearTree() = 0;
+
+	/** Return a level order traversal of a BST as a string */
+	virtual string toString() const = 0;
+
+	/** BONUS CLASS & FUNCTIONS **/
+
+	class Iterator
+	{
+	public:
+		/** Return true if iterators are not equal, else false */
+		virtual bool operator!=(const Iterator& rhs) const = 0;
+
+		/** Return true if iterators are equal, else false */
+		virtual bool operator==(const Iterator& rhs) const = 0;
+
+		/** Post increment iterator operator */
+		virtual Iterator operator++(T) = 0;
+
+		/** Dereference iterator operator */
+		virtual T operator*() const = 0;
+	};
+
+	/** Return BST iterator pointing to found node, else end() */
+	//virtual Iterator find(T&) = 0;
+
+	/** Return BST iterator pointing to first node */
+	//virtual Iterator begin() = 0;
+
+	/** Return BST iterator pointing to the last node + 1 */
+	//virtual Iterator end() = 0;
+};
+#endif	// BST_INTERFACE_H
