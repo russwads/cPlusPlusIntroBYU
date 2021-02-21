@@ -1,0 +1,14 @@
+Moves:
+flamethrower fire
+brick_break fighting
+razor_leaf grass
+tackle normal
+spark electric
+quick_attack normal
+water_gun water
+ice_beam ice
+karate_chop fighting
+rock_slide rock
+air_slash flying
+earthquake ground
+body_slam normal

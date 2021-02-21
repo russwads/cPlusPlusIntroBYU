@@ -1,0 +1,102 @@
+Pokemon:
+Typhlosion: fire
+Hitmontop: fighting
+Misdreavus: ghost
+Bayleaf: grass
+Totodile: water
+Ho-oh: flying
+Steelix: steel
+Tyranitar: rock
+Umbreon: dark
+Crobat: poison
+Scizor: bug
+Natu: psychic
+
+Moves:
+triple_kick: fighting
+magical_leaf: grass
+night_shade: ghost
+dark_pulse: dark
+stone_edge: rock
+hydro_pump: water
+fury_cutter: bug
+poison_fang: poison
+inferno: fire
+iron_tail: steel
+ariel_ace: flying
+psybeam: psychic
+
+Effectivities:
+psychic: fighting poison 
+bug: dark grass psychic 
+fire: bug grass ice steel 
+steel: rock 
+rock: bug fire flying 
+poison: grass 
+flying: bug fighting grass 
+grass: ground rock water 
+ghost: ghost psychic 
+dark: ghost psychic 
+fighting: dark rock steel 
+water: fire ground rock 
+
+Ineffectivities:
+psychic: dark psychic steel 
+bug: fighting fire flying ghost poison steel 
+fire: fire rock water 
+steel: fire steel water 
+rock: fighting steel 
+poison: ghost poison rock steel 
+flying: rock steel 
+grass: bug fire flying grass poison steel 
+ghost: dark 
+dark: dark fighting 
+fighting: bug flying poison psychic 
+water: grass water 
+
+Battles:
+Natu (psybeam) vs Tyranitar (iron_tail): Tie!
+Scizor (fury_cutter) vs Typhlosion (inferno): Typhlosion wins!
+Bayleaf (magical_leaf) vs Totodile (hydro_pump): Bayleaf wins!
+Umbreon (dark_pulse) vs Crobat (ariel_ace): Tie!
+Misdreavus (psybeam) vs Hitmontop (triple_kick): Misdreavus wins!
+Ho-oh (inferno) vs Steelix (stone_edge): Tie!
+Misdreavus (night_shade) vs Scizor (poison_fang): Misdreavus wins!
+
+Pokedex Mode:
+Bayleaf
+  Weak against: bug fire flying poison 
+  Resilient to: grass water 
+Crobat
+  Weak against: psychic 
+  Resilient to: bug fighting grass poison 
+Hitmontop
+  Weak against: flying psychic 
+  Resilient to: bug dark rock 
+Ho-oh
+  Weak against: rock 
+  Resilient to: bug fighting grass 
+Misdreavus
+  Weak against: dark ghost 
+  Resilient to: bug poison 
+Natu
+  Weak against: bug dark ghost 
+  Resilient to: fighting psychic 
+Scizor
+  Weak against: fire flying rock 
+  Resilient to: fighting grass 
+Steelix
+  Weak against: fighting fire 
+  Resilient to: bug flying grass poison psychic rock steel 
+Totodile
+  Weak against: grass 
+  Resilient to: fire steel water 
+Typhlosion
+  Weak against: rock water 
+  Resilient to: bug fire grass steel 
+Tyranitar
+  Weak against: fighting grass steel water 
+  Resilient to: fire flying poison 
+Umbreon
+  Weak against: bug fighting 
+  Resilient to: dark ghost psychic 

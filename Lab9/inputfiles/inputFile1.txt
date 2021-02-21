@@ -1,0 +1,11 @@
+Pokemon:
+Charmander fire
+Bulbasaur grass
+Squirtle water
+Pikachu electric
+Machoke fighting
+Pidgeotto flying
+Dugtrio ground
+Geodude rock
+Articuno ice
+Snorlax normal

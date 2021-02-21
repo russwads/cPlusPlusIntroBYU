@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\russe\desktop\byu\3--winter 2018\c s 235--data structures\lab9\lab9\bstsetmap.h(55): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::clear': not all control paths return a value
+  Lab9.vcxproj -> C:\Users\russe\Desktop\BYU\3--Winter 2018\C S 235--Data Structures\Lab9\Debug\Lab9.exe
